@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeInventory56</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+
+    <string name="username_input">Username</string>
+    <string name="password_input">Password</string>
+    <string name="password_input_confirm">Password (Confirm)</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+
+    <string name="login_screen_title">Login</string>
+
+    <string name="signup_screen_title">Sign Up</string>
+</resources>
